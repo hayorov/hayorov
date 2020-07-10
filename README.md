@@ -1,1 +1,1 @@
-<div style="text-align:center"><img src="animation.gif"/></div>
+<div style="text-align:center"><img src="https://github.com/hayorov/hayorov/blob/master/animation.gif?raw=true"/></div>
