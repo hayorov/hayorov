@@ -1,1 +1,1 @@
-...stop no more ridiculous anumated GIFs here 🙂
+...stop no more ridiculous animated GIFs here 🙂
