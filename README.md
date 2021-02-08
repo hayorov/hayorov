@@ -10,3 +10,10 @@ _Responsible for designing and leading the implementation of large and mid-scale
 - Other ways to contact me: [hayorov.me](https://hayorov.me)
 
 I hope you will find something useful here...
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
+<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
+![](https://hit.yhype.me/github/profile?user_id=991591)
